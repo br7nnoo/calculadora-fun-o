@@ -1,5 +1,2 @@
-<?php
-
-echo '<h1>PHP funcionando!</h1>';
-
-echo '<p>Versão do PHP: ' . PHP_VERSION . '</p>';
+<h1>PHP funcionando!</h1>
+<p>Versão do PHP: <?php echo PHP_VERSION ?> </p>
